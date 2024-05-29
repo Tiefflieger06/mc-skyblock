@@ -1,0 +1,49 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:magma_cube_spawn_egg"
+        },
+        "title": "Illegal!",
+        "description": "Craft a spawn egg",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "has_magmacube": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:magma_cube_spawn_egg"]
+                    }
+                ],
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                }
+            }
+        },
+        "has_witherskel": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:wither_skeleton_spawn_egg"]
+                    }
+                ],
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["has_magmacube", "has_witherskel"]
+    ],
+    "parent": "sb:skyblock/iron"
+}

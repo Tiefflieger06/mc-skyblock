@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "12",
+        "21"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:dirt"
+        },
+        "2": {
+            "item": "minecraft:wheat_seeds"
+        }
+    },
+    "result": {
+        "item": "minecraft:grass_block",
+        "count": 2
+    }
+}

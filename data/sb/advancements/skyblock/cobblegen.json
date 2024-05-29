@@ -1,0 +1,37 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cobblestone"
+        },
+        "title": "Cobblestone",
+        "description": "Build a cobblestone generator",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "has_cobble": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:cobblestone"]
+                    }
+                ],
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["has_cobble"]
+    ],
+    "parent": "sb:skyblock/farmer",
+    "rewards": {
+        "function": "sb:spawnbuckets/get_animals"
+    }
+}

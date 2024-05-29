@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:feather"
+        },
+        "title": "Skyblock",
+        "description": "Enter the world of Skyblock",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/light_blue_wool.png"
+    },
+    "criteria": {
+        "is_skyblock": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "sb:skyblock"
+            }
+        }
+    },
+    "requirements": [
+        ["is_skyblock"]
+    ]
+}

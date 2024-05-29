@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:coarse_dirt"
+        },
+        "title": "More Dirt",
+        "description": "Craft some coarse dirt",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "req": {
+            "trigger": "minecraft:?",
+            "conditions": {
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                },
+                ?
+            }
+        }
+    },
+    "requirements": [
+        ["req"]
+    ],
+    "parent": "sb:skyblock/?"
+}

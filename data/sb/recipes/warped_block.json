@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "111",
+        "111",
+        "111"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:twisting_vines"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_wart_block",
+        "count": 1
+    }
+}

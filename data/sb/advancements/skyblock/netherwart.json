@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:nether_wart"
+        },
+        "title": "Uncrafted",
+        "description": "Obtain some nether warts",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "req": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:nether_wart"]
+                    }
+                ],
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["req"]
+    ],
+    "parent": "sb:skyblock/nylium"
+}

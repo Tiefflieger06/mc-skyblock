@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "121",
+        "232",
+        "121"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:end_stone_bricks"
+        },
+        "2": {
+            "item": "minecraft:magenta_dye"
+        },
+        "3": {
+            "item": "minecraft:cherry_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:chorus_flower",
+        "count": 1
+    }
+}

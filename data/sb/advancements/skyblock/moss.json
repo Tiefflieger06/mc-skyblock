@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:moss_block"
+        },
+        "title": "Moss",
+        "description": "Catch some moss",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "req": {
+            "trigger": "minecraft:fishing_rod_hooked",
+            "conditions": {
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                },
+                "item": {
+                    "items": ["minecraft:moss_block"]
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["req"]
+    ],
+    "parent": "sb:skyblock/fisher"
+}
