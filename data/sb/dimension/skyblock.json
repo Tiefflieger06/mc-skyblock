@@ -1,7 +1,6 @@
 {
     "type": "minecraft:overworld",
     "generator": {
-        "seed": 0,
         "type": "minecraft:flat",
         "settings": {
             "layers": [],

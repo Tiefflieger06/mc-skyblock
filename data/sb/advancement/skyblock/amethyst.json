@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:budding_amethyst"
+            "id": "minecraft:budding_amethyst"
         },
         "title": "Infinite Amethyst",
         "description": "Let the amethyst production begin",

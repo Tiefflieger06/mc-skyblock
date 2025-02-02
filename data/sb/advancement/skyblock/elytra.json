@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:elytra"
+            "id": "minecraft:elytra"
         },
         "title": "Phantom Wings",
         "description": "Craft an elytra",

@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:oak_log"
+            "id": "minecraft:oak_log"
         },
         "title": "Getting Wood",
         "description": "Obtain an oak log",
@@ -33,7 +33,7 @@
     "parent": "sb:skyblock/root",
     "rewards": {
         "loot": [
-            "sb:advancements/ice"
+            "sb:advancement/ice"
         ]
     }
 }

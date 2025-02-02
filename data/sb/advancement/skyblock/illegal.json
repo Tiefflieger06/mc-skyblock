@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:magma_cube_spawn_egg"
+            "id": "minecraft:magma_cube_spawn_egg"
         },
         "title": "Illegal!",
         "description": "Craft a spawn egg",

@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:cobblestone"
+            "id": "minecraft:cobblestone"
         },
         "title": "Cobblestone",
         "description": "Build a cobblestone generator",
@@ -32,6 +32,8 @@
     ],
     "parent": "sb:skyblock/farmer",
     "rewards": {
-        "function": "sb:spawnbuckets/get_animals"
+        "loot": [
+            "sb:advancement/bucket"
+        ]
     }
 }

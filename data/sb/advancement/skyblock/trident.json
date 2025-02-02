@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:trident"
+            "id": "minecraft:trident"
         },
         "title": "A big fork",
         "description": "Craft a trident",

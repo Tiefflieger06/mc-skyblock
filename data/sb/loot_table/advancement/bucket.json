@@ -1,0 +1,104 @@
+{
+    "type": "minecraft:advancement_reward",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:bundle",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "\"Animals\"",
+                  "minecraft:lore": [
+                    "\"This bundle contains spawn eggs\"",
+                    "\"for all breedable entities\""
+                  ],
+                  "minecraft:bundle_contents": [
+                    {
+                      "id": "minecraft:allay_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:camel_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:cat_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:chicken_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:cow_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:donkey_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:fox_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:goat_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:horse_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:llama_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:mooshroom_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:ocelot_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:panda_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:parrot_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:pig_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:rabbit_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:sheep_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:villager_spawn_egg",
+                      "count": 2
+                    },
+                    {
+                      "id": "minecraft:wolf_spawn_egg",
+                      "count": 2
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

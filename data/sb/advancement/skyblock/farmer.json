@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:wheat"
+            "id": "minecraft:wheat"
         },
         "title": "Farmer",
         "description": "Plant and harvest some wheat",
@@ -33,7 +33,7 @@
     "parent": "sb:skyblock/get_wood",
     "rewards": {
         "loot": [
-            "sb:advancements/lava"
+            "sb:advancement/lava"
         ]
     }
 }
