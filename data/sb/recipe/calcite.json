@@ -5,15 +5,11 @@
         "21"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:stone"
-        },
-        "2": {
-            "item": "minecraft:quartz"
-        }
+        "1": "minecraft:stone",
+        "2": "minecraft:quartz"
     },
     "result": {
-        "item": "minecraft:calcite",
+        "id": "minecraft:calcite",
         "count": 2
     }
 }

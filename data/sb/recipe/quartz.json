@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:sand"
-        }
+        "1": "minecraft:sand"
     },
     "result": {
-        "item": "minecraft:quartz",
+        "id": "minecraft:quartz",
         "count": 9
     }
 }

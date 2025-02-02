@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:string"
-        }
+        "1": "minecraft:string"
     },
     "result": {
-        "item": "minecraft:cobweb",
+        "id": "minecraft:cobweb",
         "count": 1
     }
 }

@@ -6,24 +6,14 @@
         "535"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:slime_ball"
-        },
-        "2": {
-            "item": "minecraft:spawner"
-        },
-        "3": {
-            "item": "minecraft:lava_bucket"
-        },
-        "4": {
-            "item": "minecraft:gold_ingot"
-        },
-        "5": {
-            "item": "minecraft:blackstone"
-        }
+        "1": "minecraft:slime_ball",
+        "2": "minecraft:spawner",
+        "3": "minecraft:lava_bucket",
+        "4": "minecraft:gold_ingot",
+        "5": "minecraft:blackstone"
     },
     "result": {
-        "item": "minecraft:magma_cube_spawn_egg",
+        "id": "minecraft:magma_cube_spawn_egg",
         "count": 1
     }
 }

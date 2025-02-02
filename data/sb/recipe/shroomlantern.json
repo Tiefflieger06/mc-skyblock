@@ -1,15 +1,11 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:nether_wart_block"
-        },
-        {
-            "item": "minecraft:lantern"
-        }
+        "minecraft:nether_wart_block",
+        "minecraft:lantern"
     ],
     "result": {
-        "item": "minecraft:shroomlight",
+        "id": "minecraft:shroomlight",
         "count": 1
     }
 }

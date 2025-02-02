@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:emerald"
-        },
-        "2": {
-            "item": "minecraft:stone"
-        }
+        "1": "minecraft:emerald",
+        "2": "minecraft:stone"
     },
     "result": {
-        "item": "minecraft:emerald_ore",
+        "id": "minecraft:emerald_ore",
         "count": 1
     }
 }

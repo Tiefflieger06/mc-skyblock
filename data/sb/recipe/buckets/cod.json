@@ -5,15 +5,11 @@
         "2"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:cod"
-        },
-        "2": {
-            "item": "minecraft:water_bucket"
-        }
+        "1": "minecraft:cod",
+        "2": "minecraft:water_bucket"
     },
     "result": {
-        "item": "minecraft:cod_bucket",
+        "id": "minecraft:cod_bucket",
         "count": 1
     }
 }

@@ -5,15 +5,11 @@
         "2"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:pufferfish"
-        },
-        "2": {
-            "item": "minecraft:water_bucket"
-        }
+        "1": "minecraft:pufferfish",
+        "2": "minecraft:water_bucket"
     },
     "result": {
-        "item": "minecraft:pufferfish_bucket",
+        "id": "minecraft:pufferfish_bucket",
         "count": 1
     }
 }

@@ -5,15 +5,11 @@
         "21"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:dirt"
-        },
-        "2": {
-            "item": "minecraft:wheat_seeds"
-        }
+        "1": "minecraft:dirt",
+        "2": "minecraft:wheat_seeds"
     },
     "result": {
-        "item": "minecraft:grass_block",
+        "id": "minecraft:grass_block",
         "count": 2
     }
 }

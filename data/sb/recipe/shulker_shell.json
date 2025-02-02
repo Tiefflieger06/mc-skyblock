@@ -5,12 +5,10 @@
         "1 1"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:purpur_block"
-        }
+        "1": "minecraft:purpur_block"
     },
     "result": {
-        "item": "minecraft:shulker_shell",
+        "id": "minecraft:shulker_shell",
         "count": 1
     }
 }

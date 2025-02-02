@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:quartz"
-        },
-        "2": {
-            "item": "minecraft:netherrack"
-        }
+        "1": "minecraft:quartz",
+        "2": "minecraft:netherrack"
     },
     "result": {
-        "item": "minecraft:nether_quartz_ore",
+        "id": "minecraft:nether_quartz_ore",
         "count": 1
     }
 }

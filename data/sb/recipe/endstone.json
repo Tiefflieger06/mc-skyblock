@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:sandstone"
-        }
+        "1": "minecraft:sandstone"
     },
     "result": {
-        "item": "minecraft:end_stone",
+        "id": "minecraft:end_stone",
         "count": 9
     }
 }

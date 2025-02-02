@@ -1,12 +1,10 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:sculk_sensor"
-        }
+        "minecraft:sculk_sensor"
     ],
     "result": {
-        "item": "minecraft:echo_shard",
+        "id": "minecraft:echo_shard",
         "count": 4
     }
 }

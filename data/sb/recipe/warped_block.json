@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:twisting_vines"
-        }
+        "1": "minecraft:twisting_vines"
     },
     "result": {
-        "item": "minecraft:warped_wart_block",
+        "id": "minecraft:warped_wart_block",
         "count": 1
     }
 }

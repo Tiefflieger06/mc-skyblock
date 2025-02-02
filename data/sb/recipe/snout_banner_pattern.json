@@ -1,15 +1,11 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:snout_armor_trim_smithing_template"
-        },
-        {
-            "item": "minecraft:paper"
-        }
+        "minecraft:snout_armor_trim_smithing_template",
+        "minecraft:paper"
     ],
     "result": {
-        "item": "minecraft:piglin_banner_pattern",
+        "id": "minecraft:piglin_banner_pattern",
         "count": 1
     }
 }

@@ -6,18 +6,12 @@
         " 3 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:prismarine_shard"
-        },
-        "2": {
-            "item": "minecraft:heart_of_the_sea"
-        },
-        "3": {
-            "item": "minecraft:diamond"
-        }
+        "1": "minecraft:prismarine_shard",
+        "2": "minecraft:heart_of_the_sea",
+        "3": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:trident",
+        "id": "minecraft:trident",
         "count": 1
     }
 }

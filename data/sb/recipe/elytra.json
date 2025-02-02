@@ -6,15 +6,11 @@
         "1 1"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:phantom_membrane"
-        },
-        "2": {
-            "item": "minecraft:leather"
-        }
+        "1": "minecraft:phantom_membrane",
+        "2": "minecraft:leather"
     },
     "result": {
-        "item": "minecraft:elytra",
+        "id": "minecraft:elytra",
         "count": 1
     }
 }

@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:disc_fragment_5"
-        },
-        "2": {
-            "item": "minecraft:snout_armor_trim_smithing_template"
-        }
+        "1": "minecraft:disc_fragment_5",
+        "2": "minecraft:snout_armor_trim_smithing_template"
     },
     "result": {
-        "item": "minecraft:music_disc_pigstep",
+        "id": "minecraft:music_disc_pigstep",
         "count": 1
     }
 }

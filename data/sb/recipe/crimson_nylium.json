@@ -1,15 +1,11 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:netherrack"
-        },
-        {
-            "item": "minecraft:red_dye"
-        }
+        "minecraft:netherrack",
+        "minecraft:red_dye"
     ],
     "result": {
-        "item": "minecraft:crimson_nylium",
+        "id": "minecraft:crimson_nylium",
         "count": 1
     }
 }

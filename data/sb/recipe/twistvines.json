@@ -1,12 +1,10 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:warped_wart_block"
-        }
+        "minecraft:warped_wart_block"
     ],
     "result": {
-        "item": "minecraft:twisting_vines",
+        "id": "minecraft:twisting_vines",
         "count": 9
     }
 }

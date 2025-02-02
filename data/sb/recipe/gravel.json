@@ -5,12 +5,10 @@
         "11"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:cobblestone"
-        }
+        "1": "minecraft:cobblestone"
     },
     "result": {
-        "item": "minecraft:gravel",
+        "id": "minecraft:gravel",
         "count": 4
     }
 }

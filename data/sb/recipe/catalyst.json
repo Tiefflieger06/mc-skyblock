@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:deepslate"
-        },
-        "2": {
-            "item": "minecraft:spawner"
-        }
+        "1": "minecraft:deepslate",
+        "2": "minecraft:spawner"
     },
     "result": {
-        "item": "minecraft:sculk_catalyst",
+        "id": "minecraft:sculk_catalyst",
         "count": 2
     }
 }

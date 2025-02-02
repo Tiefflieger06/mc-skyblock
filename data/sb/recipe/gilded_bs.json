@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:gold_nugget"
-        },
-        "2": {
-            "item": "minecraft:blackstone"
-        }
+        "1": "minecraft:gold_nugget",
+        "2": "minecraft:blackstone"
     },
     "result": {
-        "item": "minecraft:gilded_blackstone",
+        "id": "minecraft:gilded_blackstone",
         "count": 1
     }
 }

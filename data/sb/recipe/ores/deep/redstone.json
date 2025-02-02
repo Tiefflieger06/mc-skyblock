@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:redstone"
-        },
-        "2": {
-            "item": "minecraft:deepslate"
-        }
+        "1": "minecraft:redstone",
+        "2": "minecraft:deepslate"
     },
     "result": {
-        "item": "minecraft:deepslate_redstone_ore",
+        "id": "minecraft:deepslate_redstone_ore",
         "count": 1
     }
 }

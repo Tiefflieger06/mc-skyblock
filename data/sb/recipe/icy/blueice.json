@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:snow_block"
-        }
+        "1": "minecraft:snow_block"
     },
     "result": {
-        "item": "minecraft:blue_ice",
+        "id": "minecraft:blue_ice",
         "count": 1
     }
 }

@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:diamond"
-        },
-        "2": {
-            "item": "minecraft:nautilus_shell"
-        }
+        "1": "minecraft:diamond",
+        "2": "minecraft:nautilus_shell"
     },
     "result": {
-        "item": "minecraft:heart_of_the_sea",
+        "id": "minecraft:heart_of_the_sea",
         "count": 1
     }
 }

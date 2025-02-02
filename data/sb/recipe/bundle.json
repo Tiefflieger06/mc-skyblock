@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:rabbit_hide"
-        },
-        "2": {
-            "item": "minecraft:string"
-        }
+        "1": "minecraft:rabbit_hide",
+        "2": "minecraft:string"
     },
     "result": {
-        "item": "minecraft:bundle",
+        "id": "minecraft:bundle",
         "count": 1
     }
 }

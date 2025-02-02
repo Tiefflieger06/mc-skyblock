@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:birch_wood"
-        },
-        "2": {
-            "item": "minecraft:birch_sapling"
-        }
+        "1": "minecraft:birch_wood",
+        "2": "minecraft:birch_sapling"
     },
     "result": {
-        "item": "minecraft:spruce_sapling",
+        "id": "minecraft:spruce_sapling",
         "count": 1
     }
 }

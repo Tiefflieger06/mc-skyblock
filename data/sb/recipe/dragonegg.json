@@ -6,27 +6,15 @@
         "565"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:dragon_breath"
-        },
-        "2": {
-            "item": "minecraft:dragon_head"
-        },
-        "3": {
-            "item": "minecraft:spawner"
-        },
-        "4": {
-            "item": "minecraft:netherite_block"
-        },
-        "5": {
-            "item": "minecraft:budding_amethyst"
-        },
-        "6": {
-            "item": "minecraft:wither_skeleton_spawn_egg"
-        }
+        "1": "minecraft:dragon_breath",
+        "2": "minecraft:dragon_head",
+        "3": "minecraft:spawner",
+        "4": "minecraft:netherite_block",
+        "5": "minecraft:budding_amethyst",
+        "6": "minecraft:wither_skeleton_spawn_egg"
     },
     "result": {
-        "item": "minecraft:dragon_egg",
+        "id": "minecraft:dragon_egg",
         "count": 1
     }
 }

@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:diamond"
-        },
-        "2": {
-            "item": "minecraft:deepslate"
-        }
+        "1": "minecraft:diamond",
+        "2": "minecraft:deepslate"
     },
     "result": {
-        "item": "minecraft:deepslate_diamond_ore",
+        "id": "minecraft:deepslate_diamond_ore",
         "count": 1
     }
 }

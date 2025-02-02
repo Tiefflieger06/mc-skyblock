@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:granite"
-        }
+        "1": "minecraft:granite"
     },
     "result": {
-        "item": "minecraft:copper_ore",
+        "id": "minecraft:copper_ore",
         "count": 1
     }
 }

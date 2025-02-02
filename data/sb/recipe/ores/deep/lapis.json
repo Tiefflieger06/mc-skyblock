@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:lapis_lazuli"
-        },
-        "2": {
-            "item": "minecraft:deepslate"
-        }
+        "1": "minecraft:lapis_lazuli",
+        "2": "minecraft:deepslate"
     },
     "result": {
-        "item": "minecraft:deepslate_lapis_ore",
+        "id": "minecraft:deepslate_lapis_ore",
         "count": 1
     }
 }

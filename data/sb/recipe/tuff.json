@@ -6,15 +6,11 @@
         "121"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:smooth_basalt"
-        },
-        "2": {
-            "item": "minecraft:stone"
-        }
+        "1": "minecraft:smooth_basalt",
+        "2": "minecraft:stone"
     },
     "result": {
-        "item": "minecraft:tuff",
+        "id": "minecraft:tuff",
         "count": 8
     }
 }

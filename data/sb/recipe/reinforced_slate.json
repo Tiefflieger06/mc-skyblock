@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:deepslate"
-        }
+        "1": "minecraft:deepslate"
     },
     "result": {
-        "item": "minecraft:reinforced_deepslate",
+        "id": "minecraft:reinforced_deepslate",
         "count": 1
     }
 }

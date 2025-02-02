@@ -1,15 +1,11 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:potion"
-        },
-        {
-            "item": "minecraft:bone_meal"
-        }
+        "minecraft:potion",
+        "minecraft:bone_meal"
     ],
     "result": {
-        "item": "minecraft:snowball",
+        "id": "minecraft:snowball",
         "count": 1
     }
 }

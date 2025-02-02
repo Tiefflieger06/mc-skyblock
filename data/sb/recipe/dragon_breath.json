@@ -1,15 +1,11 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:popped_chorus_fruit"
-        },
-        {
-            "item": "minecraft:glass_bottle"
-        }
+        "minecraft:popped_chorus_fruit",
+        "minecraft:glass_bottle"
     ],
     "result": {
-        "item": "minecraft:dragon_breath",
+        "id": "minecraft:dragon_breath",
         "count": 1
     }
 }

@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:jungle_wood"
-        },
-        "2": {
-            "item": "minecraft:jungle_sapling"
-        }
+        "1": "minecraft:jungle_wood",
+        "2": "minecraft:jungle_sapling"
     },
     "result": {
-        "item": "minecraft:cherry_sapling",
+        "id": "minecraft:cherry_sapling",
         "count": 1
     }
 }

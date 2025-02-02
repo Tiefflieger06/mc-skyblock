@@ -6,15 +6,11 @@
         " 1 "
     ],
     "key": {
-        "1": {
-            "item": "minecraft:lapis_lazuli"
-        },
-        "2": {
-            "item": "minecraft:stone"
-        }
+        "1": "minecraft:lapis_lazuli",
+        "2": "minecraft:stone"
     },
     "result": {
-        "item": "minecraft:lapis_ore",
+        "id": "minecraft:lapis_ore",
         "count": 1
     }
 }

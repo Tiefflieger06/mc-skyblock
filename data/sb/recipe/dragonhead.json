@@ -6,27 +6,15 @@
         "565"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:end_stone_bricks"
-        },
-        "2": {
-            "item": "minecraft:shulker_shell"
-        },
-        "3": {
-            "item": "minecraft:chorus_flower"
-        },
-        "4": {
-            "item": "minecraft:wither_skeleton_skull"
-        },
-        "5": {
-            "item": "minecraft:crying_obsidian"
-        },
-        "6": {
-            "item": "minecraft:elytra"
-        }
+        "1": "minecraft:end_stone_bricks",
+        "2": "minecraft:shulker_shell",
+        "3": "minecraft:chorus_flower",
+        "4": "minecraft:wither_skeleton_skull",
+        "5": "minecraft:crying_obsidian",
+        "6": "minecraft:elytra"
     },
     "result": {
-        "item": "minecraft:dragon_head",
+        "id": "minecraft:dragon_head",
         "count": 1
     }
 }

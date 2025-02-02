@@ -5,15 +5,11 @@
         "2"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:salmon"
-        },
-        "2": {
-            "item": "minecraft:water_bucket"
-        }
+        "1": "minecraft:salmon",
+        "2": "minecraft:water_bucket"
     },
     "result": {
-        "item": "minecraft:salmon_bucket",
+        "id": "minecraft:salmon_bucket",
         "count": 1
     }
 }

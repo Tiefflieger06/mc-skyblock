@@ -6,12 +6,10 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:coal_block"
-        }
+        "1": "minecraft:coal_block"
     },
     "result": {
-        "item": "minecraft:diamond",
+        "id": "minecraft:diamond",
         "count": 1
     }
 }

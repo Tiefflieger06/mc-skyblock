@@ -6,15 +6,11 @@
         "111"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:cobblestone"
-        },
-        "2": {
-            "item": "minecraft:red_dye"
-        }
+        "1": "minecraft:cobblestone",
+        "2": "minecraft:red_dye"
     },
     "result": {
-        "item": "minecraft:netherrack",
+        "id": "minecraft:netherrack",
         "count": 8
     }
 }

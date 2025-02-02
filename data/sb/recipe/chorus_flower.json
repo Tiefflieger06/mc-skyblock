@@ -6,18 +6,12 @@
         "121"
     ],
     "key": {
-        "1": {
-            "item": "minecraft:end_stone_bricks"
-        },
-        "2": {
-            "item": "minecraft:magenta_dye"
-        },
-        "3": {
-            "item": "minecraft:cherry_sapling"
-        }
+        "1": "minecraft:end_stone_bricks",
+        "2": "minecraft:magenta_dye",
+        "3": "minecraft:cherry_sapling"
     },
     "result": {
-        "item": "minecraft:chorus_flower",
+        "id": "minecraft:chorus_flower",
         "count": 1
     }
 }
