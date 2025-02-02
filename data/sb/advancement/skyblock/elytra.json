@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra"
+        },
+        "title": "Phantom Wings",
+        "description": "Craft an elytra",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "req": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "sb:elytra",
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["req"]
+    ],
+    "parent": "sb:skyblock/chorusflower"
+}

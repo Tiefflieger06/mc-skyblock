@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "111",
+        "121",
+        "111"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:cherry_wood"
+        },
+        "2": {
+            "item": "minecraft:cherry_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:oak_sapling",
+        "count": 1
+    }
+}

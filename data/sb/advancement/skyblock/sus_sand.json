@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:brush"
+        },
+        "title": "sus?",
+        "description": "Catch suspicious sand",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "req": {
+            "trigger": "minecraft:fishing_rod_hooked",
+            "conditions": {
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                },
+                "item": {
+                    "items": ["minecraft:suspicious_sand"]
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["req"]
+    ],
+    "parent": "sb:skyblock/fisher"
+}

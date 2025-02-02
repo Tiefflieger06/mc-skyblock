@@ -1,0 +1,39 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:oak_log"
+        },
+        "title": "Getting Wood",
+        "description": "Obtain an oak log",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "has_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:oak_log"]
+                    }
+                ],
+                "player": {
+                    "location": {
+                        "dimension": "sb:skyblock"
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["has_wood"]
+    ],
+    "parent": "sb:skyblock/root",
+    "rewards": {
+        "loot": [
+            "sb:advancements/ice"
+        ]
+    }
+}

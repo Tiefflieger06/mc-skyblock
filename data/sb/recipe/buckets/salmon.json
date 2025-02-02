@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "1",
+        "2"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:salmon"
+        },
+        "2": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:salmon_bucket",
+        "count": 1
+    }
+}
