@@ -1,24 +1,30 @@
-# Skyblock Dimension by Tiefflieger06
-Github Repository for my custom Skyblock Dimension Minecraft datapack
+# Skyblock Dimension
 
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1%20|%201.20.4%20|%201.21.4-brightgreen.svg)](https://www.minecraft.net)
+[![Website](https://img.shields.io/badge/Website-luca4.com-blue.svg)](https://luca4.com/skyblock-dimension/)
 
-### Official Website (including downloads for several versions): https://luca4.com/skyblock-dimension/
+A custom Skyblock Dimension datapack that adds a fourth dimension to Minecraft, allowing players to experience Skyblock gameplay alongside vanilla survival.
 
+## 🌟 Features
 
-This is one of the first datapacks that I coded myself, so if you encounter any bugs or want to suggest new features/changes, let me know in the comments below or contact me at https://luca4.com/contact/.
+- Fourth dimension specifically for Skyblock gameplay
+- Easy dimension switching with `/trigger skyblock` command
+- Custom crafting recipes and loot tables
+- Compatible with existing vanilla worlds/servers
+- Modified gameplay mechanics for better Skyblock experience
 
-## Features:
-This datapack creates a fourth minecraft dimension which is the so-called skyblock dimension. It can be entered using „/trigger skyblock“. This allows you to add a skyblock gamemode to your already existing minecraft server/world, and players can easily switch between the vanilla survival world and the skyblock dimension and play entirely different gamemodes, all while being on the same server.
+## 📥 Downloads & Information
 
-The skyblock experience itself is also slightly different from the vanilla skyblock experience, as I added several new crafting recipes and loot tables with the goal of making some time consuming tasks easier (like waiting for a wandering trader) and also making every item available in skyblock that would normally be available in vanilla survival.
+- **Official Website:** [luca4.com/skyblock-dimension](https://luca4.com/skyblock-dimension/)
+- **Bug Reports/Contact:** [luca4.com/contact](https://luca4.com/contact/)
 
-## Supported game versions:
-Due to huge changes to datapacks in version 1.20.5+, this datapack officially supports only the following versions:
+## ✅ Supported Versions
 
-– 1.20.1, 1.20.4
+### Officially Supported
+- 1.20.1
+- 1.20.4
+- 1.21.4
 
-Untested versions (Please report any errors that may occur here)
-
-– 1.20 and 1.20.2 (use 1.20.1 version)
-
-– 1.20.3 (use 1.20.4 version)
+### Untested (Use at own risk)
+- 1.20 and 1.20.2 (use 1.20.1 version)
+- 1.20.3 (use 1.20.4 version)
